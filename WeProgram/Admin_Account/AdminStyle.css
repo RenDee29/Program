@@ -1,0 +1,522 @@
+.login-section,
+.login-section * {
+  box-sizing: border-box;
+}
+.login-section {
+  background: #eae8ff;
+  width: 1440px;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.untitled-design-3-1 {
+  width: 1440px;
+  height: 1024px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.welcome-to {
+  color: #ffffff;
+  text-align: center;
+  font: 700 71px "Inter", sans-serif;
+  position: absolute;
+  left: 58px;
+  top: 414px;
+  width: 510px;
+  height: 115px;
+}
+.we-smile-dental-clinic {
+  color: #ffffff;
+  text-align: left;
+  font: 700 100px "Inter", sans-serif;
+  position: absolute;
+  left: 108px;
+  top: 503px;
+  width: 583px;
+  height: 383px;
+}
+.none {
+  color: #ffffff;
+  text-align: center;
+  font: 700 150px "Inter", sans-serif;
+  position: absolute;
+  left: 337px;
+  top: 238px;
+  width: 254px;
+  height: 221px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+}
+.rectangle-2,
+.rectangle-2 * {
+  box-sizing: border-box;
+}
+.rectangle-2 {
+  background: rgba(255, 255, 255, 0.41);
+  border-radius: 20px;
+  border-width: 2px;
+  border-style: solid;
+  border-image: linear-gradient(
+    168.14deg,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(255, 255, 255, 0) 100%
+  );
+  border-image-slice: 1;
+  width: 622px;
+  height: 757px;
+  position: relative;
+  box-shadow: inset -38.7px 38.7px 38.7px 0px rgba(255, 255, 255, 0.1),
+    inset 38.7px -38.7px 38.7px 0px rgba(165, 165, 165, 0.1);
+  backdrop-filter: blur(38.7px);
+}
+.log-in,
+.log-in * {
+  box-sizing: border-box;
+}
+.log-in {
+  color: #491d72;
+  text-align: center;
+  font: 800 60px "Inter", sans-serif;
+  position: relative;
+  width: 337px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+
+ /*Login Section*/
+
+ .login-section,
+ .login-section * {
+   box-sizing: border-box;
+ }
+ .login-section {
+   background: #eae8ff;
+   width: 1440px;
+   height: 1024px;
+   position: relative;
+   overflow: hidden;
+ }
+ .untitled-design-3-1 {
+   width: 1440px;
+   height: 1024px;
+   position: absolute;
+   left: 0px;
+   top: 0px;
+ }
+ .welcome-to {
+   color: #ffffff;
+   text-align: center;
+   font: 700 71px "Inter", sans-serif;
+   position: absolute;
+   left: 58px;
+   top: 414px;
+   width: 510px;
+   height: 115px;
+ }
+ .we-smile-dental-clinic {
+   color: #ffffff;
+   text-align: left;
+   font: 700 100px "Inter", sans-serif;
+   position: absolute;
+   left: 108px;
+   top: 503px;
+   width: 583px;
+   height: 383px;
+ }
+ .none {
+   color: #ffffff;
+   text-align: center;
+   font: 700 150px "Inter", sans-serif;
+   position: absolute;
+   left: 337px;
+   top: 238px;
+   width: 254px;
+   height: 221px;
+   transform-origin: 0 0;
+   transform: rotate(0deg) scale(-1, 1);
+ }
+ .group-6 {
+   position: absolute;
+   inset: 0;
+ }
+ .rectangle-2 {
+   background: rgba(255, 255, 255, 0.41);
+   border-radius: 20px;
+   border-width: 2px;
+   border-style: solid;
+   border-image: linear-gradient(
+     168.14deg,
+     rgba(255, 255, 255, 1) 0%,
+     rgba(255, 255, 255, 0) 100%
+   );
+   border-image-slice: 1;
+   width: 622px;
+   height: 757px;
+   position: absolute;
+   left: calc(50% - 0px);
+   top: 133px;
+   box-shadow: inset -38.7px 38.7px 38.7px 0px rgba(255, 255, 255, 0.1),
+     inset 38.7px -38.7px 38.7px 0px rgba(165, 165, 165, 0.1);
+   backdrop-filter: blur(38.7px);
+ }
+ .log-in {
+   color: #491d72;
+   text-align: center;
+   font: 800 60px "Inter", sans-serif;
+   position: absolute;
+   left: 862px;
+   top: 188px;
+   width: 337px;
+   height: 100px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+ }
+ 
+ /*Secretary*/
+ .secretary-dashboard,
+ .secretary-dashboard * {
+   box-sizing: border-box;
+ }
+ .secretary-dashboard {
+   background: #eae8ff;
+   width: 1440px;
+   height: 1024px;
+   position: relative;
+   overflow: hidden;
+ }
+ .rectangle-3 {
+   background: rgba(73, 29, 114, 0.9);
+   border-radius: 30px;
+   width: 336px;
+   height: 961px;
+   position: absolute;
+   left: 29px;
+   top: 31px;
+ }
+ .dashboard {
+   color: #ffffff;
+   text-align: left;
+   font: 700 30px "Inter", sans-serif;
+   position: absolute;
+   left: 79px;
+   top: 342px;
+   width: 247px;
+   height: 58px;
+   display: flex;
+   align-items: center;
+   justify-content: flex-start;
+ }
+ .dashboard2 {
+   color: #491d72;
+   text-align: left;
+   font: 700 45px "Inter", sans-serif;
+   position: absolute;
+   left: 398px;
+   top: 40px;
+   width: 401px;
+   height: 86px;
+   display: flex;
+   align-items: center;
+   justify-content: flex-start;
+ }
+ .calendar {
+   color: #ffffff;
+   text-align: left;
+   font: 700 30px "Inter", sans-serif;
+   position: absolute;
+   left: 79px;
+   top: 407px;
+   width: 247px;
+   height: 58px;
+   display: flex;
+   align-items: center;
+   justify-content: flex-start;
+ }
+ .appointments {
+   color: #ffffff;
+   text-align: left;
+   font: 700 30px "Inter", sans-serif;
+   position: absolute;
+   left: 79px;
+   top: 466px;
+   width: 247px;
+   height: 58px;
+   display: flex;
+   align-items: center;
+   justify-content: flex-start;
+ }
+ .patient {
+   color: #ffffff;
+   text-align: left;
+   font: 700 30px "Inter", sans-serif;
+   position: absolute;
+   left: 79px;
+   top: 524px;
+   width: 247px;
+   height: 58px;
+   display: flex;
+   align-items: center;
+   justify-content: flex-start;
+ }
+ .doctors {
+   color: #ffffff;
+   text-align: left;
+   font: 700 30px "Inter", sans-serif;
+   position: absolute;
+   left: 79px;
+   top: 582px;
+   width: 247px;
+   height: 58px;
+   display: flex;
+   align-items: center;
+   justify-content: flex-start;
+ }
+ .rectangle-1 {
+   background: #ffffff;
+   border-radius: 10px;
+   border-style: solid;
+   border-color: transparent;
+   border-width: 1px;
+   width: 177px;
+   height: 97px;
+   position: absolute;
+   left: 398px;
+   top: 143px;
+   box-shadow: 5px 5px 8px 0px rgba(0, 0, 0, 0.25);
+ }
+ .rectangle-4 {
+   background: #ffffff;
+   border-radius: 10px;
+   border-style: solid;
+   border-color: transparent;
+   border-width: 1px;
+   width: 406px;
+   height: 835px;
+   position: absolute;
+   left: 993px;
+   top: 143px;
+   box-shadow: 10px 4px 25.6px 0px rgba(0, 0, 0, 0.25);
+ }
+ .patients-today {
+   color: #491d72;
+   text-align: left;
+   font: 400 20px "Inter", sans-serif;
+   position: absolute;
+   left: 415px;
+   top: 157px;
+   width: 177px;
+   height: 43px;
+ }
+ .november-2023 {
+   color: #491d72;
+   text-align: left;
+   font: 700 25px "Inter", sans-serif;
+   position: absolute;
+   left: 1025px;
+   top: 164px;
+   width: 329px;
+   height: 40px;
+ }
+ ._15 {
+   color: #491d72;
+   text-align: left;
+   font: 700 33px "Inter", sans-serif;
+   position: absolute;
+   left: 417px;
+   top: 184px;
+   width: 50px;
+   height: 52px;
+ }
+ .rectangle-7 {
+   background: #ffffff;
+   border-radius: 10px;
+   border-style: solid;
+   border-color: transparent;
+   border-width: 1px;
+   width: 177px;
+   height: 97px;
+   position: absolute;
+   left: 791px;
+   top: 144px;
+   box-shadow: 5px 5px 8px 0px rgba(0, 0, 0, 0.25);
+ }
+ .rectangle-8 {
+   background: #ffffff;
+   border-radius: 10px;
+   border-style: solid;
+   border-color: transparent;
+   border-width: 1px;
+   width: 240px;
+   height: 72px;
+   position: absolute;
+   left: 1159px;
+   top: 40px;
+   box-shadow: 5px 5px 8px 0px rgba(0, 0, 0, 0.25);
+ }
+ ._152 {
+   color: #491d72;
+   text-align: left;
+   font: 700 33px "Inter", sans-serif;
+   position: absolute;
+   left: 808px;
+   top: 185px;
+   width: 50px;
+   height: 52px;
+ }
+ ._11 {
+   color: #491d72;
+   text-align: center;
+   font: 700 35px "Inter", sans-serif;
+   position: absolute;
+   left: 1015px;
+   top: 216px;
+   width: 51px;
+   height: 49px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+ }
+ ._12 {
+   color: #491d72;
+   text-align: center;
+   font: 700 35px "Inter", sans-serif;
+   position: absolute;
+   left: 1066px;
+   top: 216px;
+   width: 51px;
+   height: 49px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+ }
+ ._13 {
+   color: #491d72;
+   text-align: center;
+   font: 700 35px "Inter", sans-serif;
+   position: absolute;
+   left: 1119px;
+   top: 216px;
+   width: 51px;
+   height: 49px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+ }
+ ._14 {
+   color: #491d72;
+   text-align: center;
+   font: 700 35px "Inter", sans-serif;
+   position: absolute;
+   left: 1170px;
+   top: 216px;
+   width: 51px;
+   height: 49px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+ }
+ ._153 {
+   color: #491d72;
+   text-align: center;
+   font: 700 35px "Inter", sans-serif;
+   position: absolute;
+   left: 1221px;
+   top: 216px;
+   width: 51px;
+   height: 49px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+ }
+ ._16 {
+   color: #491d72;
+   text-align: center;
+   font: 700 35px "Inter", sans-serif;
+   position: absolute;
+   left: 1272px;
+   top: 216px;
+   width: 51px;
+   height: 49px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+ }
+ ._17 {
+   color: #491d72;
+   text-align: center;
+   font: 700 35px "Inter", sans-serif;
+   position: absolute;
+   left: 1323px;
+   top: 216px;
+   width: 51px;
+   height: 49px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+ }
+ .rectangle-6 {
+   background: #ffffff;
+   border-radius: 10px;
+   border-style: solid;
+   border-color: transparent;
+   border-width: 1px;
+   width: 179px;
+   height: 97px;
+   position: absolute;
+   left: 593px;
+   top: 143px;
+   box-shadow: 5px 5px 8px 0px rgba(0, 0, 0, 0.25);
+ }
+ .missed {
+   color: #491d72;
+   text-align: left;
+   font: 400 20px "Inter", sans-serif;
+   position: absolute;
+   left: 614px;
+   top: 158px;
+   width: 190px;
+   height: 41px;
+ }
+ .jomellir-cameros {
+   color: #491d72;
+   text-align: left;
+   font: 700 20px "Inter", sans-serif;
+   position: absolute;
+   left: 1184px;
+   top: 51px;
+   width: 190px;
+   height: 41px;
+ }
+ ._154 {
+   color: #491d72;
+   text-align: left;
+   font: 700 33px "Inter", sans-serif;
+   position: absolute;
+   left: 612px;
+   top: 184px;
+   width: 50px;
+   height: 52px;
+ }
+ .we-smile-logo-2-1 {
+   width: 237px;
+   height: 91px;
+   position: absolute;
+   left: 79px;
+   top: 66px;
+ }
+ .ellipse-1 {
+   background: #d9d9d9;
+   border-radius: 50%;
+   width: 57px;
+   height: 57px;
+   position: absolute;
+   left: 1331px;
+   top: 47px;
+ }
+ 
