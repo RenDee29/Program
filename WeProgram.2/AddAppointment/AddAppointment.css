@@ -1,0 +1,1230 @@
+.add-appointment-popup,
+.add-appointment-popup * {
+  box-sizing: border-box;
+}
+.add-appointment-popup {
+  background: #eae8ff;
+  width: 1920px;
+  height: 1342px;
+  position: relative;
+}
+.list-of-patients {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-30 {
+  background: #ffffff;
+  border-radius: 10px;
+  width: 523.73px;
+  height: 351px;
+  position: absolute;
+  left: 510px;
+  top: 686px;
+}
+.appointment-statistics {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-29 {
+  background: #ffffff;
+  border-radius: 10px;
+  width: 523.73px;
+  height: 351px;
+  position: absolute;
+  left: 510px;
+  top: 315px;
+}
+.dashboard {
+  color: #491d72;
+  text-align: left;
+  font: 700 36px "Montserrat-Bold", sans-serif;
+  position: absolute;
+  left: 510px;
+  top: 99px;
+  width: 534px;
+  height: 83px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.today {
+  width: 110px;
+  height: 56px;
+  position: absolute;
+  right: 228px;
+  top: 32px;
+}
+.today-is {
+  color: #491d72;
+  text-align: right;
+  font: 600 14px "Montserrat-SemiBold", sans-serif;
+  position: absolute;
+  right: 0%;
+  left: 30.91%;
+  width: 69.09%;
+  bottom: 48.21%;
+  top: 0%;
+  height: 51.79%;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+}
+.nov-14-2023 {
+  color: #491d72;
+  text-align: right;
+  font: 600 16px "Montserrat-SemiBold", sans-serif;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 55.36%;
+  height: 44.64%;
+}
+.we-smile-rects {
+  width: 336px;
+  height: 996px;
+  position: absolute;
+  left: 0px;
+  top: 41px;
+}
+.rectangle-3 {
+  background: #491d72;
+  border-radius: 0px 30px 30px 0px;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.group-33 {
+  position: absolute;
+  inset: 0;
+}
+.dashboard2 {
+  color: #ffffff;
+  text-align: left;
+  font: 700 20px "Montserrat-Bold", sans-serif;
+  position: absolute;
+  right: 24.11%;
+  left: 14.88%;
+  width: 61.01%;
+  bottom: 75.86%;
+  top: 19.46%;
+  height: 4.68%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.calendar {
+  color: #ffffff;
+  text-align: left;
+  font: 700 20px "Montserrat-Bold", sans-serif;
+  position: absolute;
+  right: 24.11%;
+  left: 14.88%;
+  width: 61.01%;
+  bottom: 70.66%;
+  top: 24.66%;
+  height: 4.68%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.appointments {
+  color: #ffffff;
+  text-align: left;
+  font: 700 20px "Montserrat-Bold", sans-serif;
+  position: absolute;
+  right: 24.11%;
+  left: 14.88%;
+  width: 61.01%;
+  bottom: 66.08%;
+  top: 29.34%;
+  height: 4.58%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.patient {
+  color: #ffffff;
+  text-align: left;
+  font: 700 20px "Montserrat-Bold", sans-serif;
+  position: absolute;
+  right: 24.11%;
+  left: 14.88%;
+  width: 61.01%;
+  bottom: 61.39%;
+  top: 33.92%;
+  height: 4.68%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.doctors {
+  color: #ffffff;
+  text-align: left;
+  font: 700 20px "Montserrat-Bold", sans-serif;
+  position: absolute;
+  right: 24.11%;
+  left: 14.88%;
+  width: 61.01%;
+  bottom: 56.82%;
+  top: 38.61%;
+  height: 4.58%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.account-settings {
+  color: #ffffff;
+  text-align: left;
+  font: 700 20px "Montserrat-Bold", sans-serif;
+  position: absolute;
+  right: 14.58%;
+  left: 15.18%;
+  width: 70.24%;
+  bottom: 51.93%;
+  top: 43.18%;
+  height: 4.89%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.we-smile-logo-2-1 {
+  position: absolute;
+  right: 14.58%;
+  left: 14.88%;
+  width: 70.54%;
+  bottom: 87.83%;
+  top: 2.71%;
+  height: 9.47%;
+}
+.forward {
+  width: 15px;
+  height: 36px;
+  position: absolute;
+  left: 287px;
+  top: 192px;
+}
+.forward2 {
+  width: 15px;
+  height: 36px;
+  position: absolute;
+  left: 287px;
+  top: 242px;
+}
+.forward3 {
+  width: 15px;
+  height: 36px;
+  position: absolute;
+  left: 287px;
+  top: 286px;
+}
+.forward4 {
+  width: 15px;
+  height: 36px;
+  position: absolute;
+  left: 287px;
+  top: 331px;
+}
+.forward5 {
+  width: 15px;
+  height: 36px;
+  position: absolute;
+  left: 287px;
+  top: 375px;
+}
+.forward6 {
+  width: 15px;
+  height: 36px;
+  position: absolute;
+  left: 287px;
+  top: 421px;
+}
+.secretary-name {
+  width: 160px;
+  height: 57px;
+  position: absolute;
+  right: 49px;
+  top: 32px;
+}
+.rectangle-8 {
+  background: #ffffff;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: transparent;
+  border-width: 1px;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+  box-shadow: 5px 5px 8px 0px rgba(0, 0, 0, 0.25);
+}
+.jomellir {
+  color: #491d72;
+  text-align: right;
+  font: 600 20px "Montserrat-SemiBold", sans-serif;
+  position: absolute;
+  right: 40.53%;
+  left: 0%;
+  width: 59.47%;
+  bottom: 42.03%;
+  top: 14.91%;
+  height: 43.06%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.ellipse-1 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  position: absolute;
+  right: 5.79%;
+  left: 64.21%;
+  width: 30%;
+  bottom: 11.11%;
+  top: 9.72%;
+  height: 79.17%;
+}
+.secretary {
+  color: #491d72;
+  text-align: right;
+  font: 400 16px "Montserrat-Regular", sans-serif;
+  position: absolute;
+  right: 40.33%;
+  left: 10.72%;
+  width: 48.95%;
+  bottom: 20.83%;
+  top: 52.78%;
+  height: 26.39%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.appointment-dash-section {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-4 {
+  background: #ffffff;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: transparent;
+  border-width: 1px;
+  width: 506.18px;
+  height: 762px;
+  position: absolute;
+  left: 1056.82px;
+  top: 275px;
+  box-shadow: 10px 4px 25.6px 0px rgba(0, 0, 0, 0.25);
+}
+.november-2023 {
+  color: #491d72;
+  text-align: left;
+  font: 700 25px "Montserrat-Bold", sans-serif;
+  position: absolute;
+  left: 1079.32px;
+  top: 286.77px;
+  width: 411.19px;
+  height: 39.23px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.upcoming-appointments {
+  color: #491d72;
+  text-align: left;
+  font: 600 20px "Montserrat-SemiBold", sans-serif;
+  position: absolute;
+  left: 1086.82px;
+  top: 424.07px;
+  width: 411.19px;
+  height: 39.23px;
+}
+.today-nov-11 {
+  color: #a6a6a6;
+  text-align: left;
+  font: 600 15px "Montserrat-SemiBold", sans-serif;
+  position: absolute;
+  left: 1098.07px;
+  top: 467.22px;
+  width: 178.72px;
+  height: 25.5px;
+}
+.monday-nov-13 {
+  color: #a6a6a6;
+  text-align: left;
+  font: 600 15px "Montserrat-SemiBold", sans-serif;
+  position: absolute;
+  left: 1098.07px;
+  top: 691.8px;
+  width: 178.72px;
+  height: 25.5px;
+}
+.group-33719 {
+  width: 470.09px;
+  height: 62.94px;
+  position: static;
+}
+.group-9 {
+  width: 61.07px;
+  height: 62.76px;
+  position: static;
+}
+.rectangle-16 {
+  background: #491d72;
+  border-radius: 5px;
+  width: 57.47px;
+  height: 62.76px;
+  position: absolute;
+  left: 1079.3px;
+  top: 335px;
+}
+._11 {
+  color: #ffffff;
+  text-align: center;
+  font: 700 35px "Montserrat-Bold", sans-serif;
+  position: absolute;
+  left: 1076.91px;
+  top: 349.71px;
+  width: 61.07px;
+  height: 48.05px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rectangle-9 {
+  background: #ffffff;
+  border-radius: 50px;
+  width: 23.95px;
+  height: 5.88px;
+  position: absolute;
+  left: 1096.07px;
+  top: 343.83px;
+}
+.group-25 {
+  width: 50.16px;
+  height: 53.94px;
+  position: static;
+}
+._12 {
+  color: #491d72;
+  text-align: center;
+  font: 700 35px "Montserrat-Bold", sans-serif;
+  position: absolute;
+  left: 1148.37px;
+  top: 349.88px;
+  width: 50.16px;
+  height: 48.05px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rectangle-11 {
+  background: #cdcce0;
+  border-radius: 50px;
+  width: 19.67px;
+  height: 5.88px;
+  position: absolute;
+  left: 1164.11px;
+  top: 344px;
+}
+.group-11 {
+  width: 50.16px;
+  height: 53.94px;
+  position: static;
+}
+._13 {
+  color: #491d72;
+  text-align: center;
+  font: 700 35px "Montserrat-Bold", sans-serif;
+  position: absolute;
+  left: 1223.43px;
+  top: 349.71px;
+  width: 50.16px;
+  height: 48.05px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rectangle-112 {
+  background: #cdcce0;
+  border-radius: 50px;
+  width: 19.67px;
+  height: 5.88px;
+  position: absolute;
+  left: 1239.17px;
+  top: 343.83px;
+}
+.group-12 {
+  width: 52.53px;
+  height: 53.94px;
+  position: static;
+}
+._14 {
+  color: #491d72;
+  text-align: center;
+  font: 700 35px "Montserrat-Bold", sans-serif;
+  position: absolute;
+  left: 1291.24px;
+  top: 349.71px;
+  width: 52.53px;
+  height: 48.05px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rectangle-12 {
+  background: #cdcce0;
+  border-radius: 50px;
+  width: 20.6px;
+  height: 5.88px;
+  position: absolute;
+  left: 1307.3px;
+  top: 343.83px;
+}
+.group-13 {
+  width: 50.16px;
+  height: 53.94px;
+  position: static;
+}
+._15 {
+  color: #491d72;
+  text-align: center;
+  font: 700 35px "Montserrat-Bold", sans-serif;
+  position: absolute;
+  left: 1361.41px;
+  top: 349.71px;
+  width: 50.16px;
+  height: 48.05px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rectangle-13 {
+  background: #cdcce0;
+  border-radius: 50px;
+  width: 19.67px;
+  height: 5.88px;
+  position: absolute;
+  left: 1377.15px;
+  top: 343.83px;
+}
+.group-14 {
+  width: 50.16px;
+  height: 53.6px;
+  position: static;
+}
+._16 {
+  color: #491d72;
+  text-align: center;
+  font: 700 35px "Montserrat-Bold", sans-serif;
+  position: absolute;
+  left: 1429.22px;
+  top: 349.71px;
+  width: 50.16px;
+  height: 48.05px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rectangle-14 {
+  background: #cdcce0;
+  border-radius: 50px;
+  width: 19.67px;
+  height: 5.88px;
+  position: absolute;
+  left: 1443.42px;
+  top: 344.17px;
+}
+.group-15 {
+  width: 50.16px;
+  height: 53.94px;
+  position: static;
+}
+._17 {
+  color: #491d72;
+  text-align: center;
+  font: 700 35px "Montserrat-Bold", sans-serif;
+  position: absolute;
+  left: 1496.84px;
+  top: 349.88px;
+  width: 50.16px;
+  height: 48.05px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rectangle-15 {
+  background: #cdcce0;
+  border-radius: 50px;
+  width: 19.67px;
+  height: 5.88px;
+  position: absolute;
+  left: 1512.57px;
+  top: 344px;
+}
+.group-19 {
+  width: 427.44px;
+  height: 76.49px;
+  position: static;
+}
+.rectangle-17 {
+  background: #491d72;
+  border-radius: 10px;
+  width: 427.44px;
+  height: 76.49px;
+  position: absolute;
+  left: 1095.57px;
+  top: 492.71px;
+}
+.rectangle-20 {
+  background: #d9d9d9;
+  border-radius: 5px;
+  width: 76.24px;
+  height: 52.96px;
+  position: absolute;
+  left: 1109.31px;
+  top: 504.48px;
+}
+.jomellir-cameros {
+  color: #eae8ff;
+  text-align: left;
+  font: 600 19px "Montserrat-SemiBold", sans-serif;
+  position: absolute;
+  left: 1200px;
+  top: 519px;
+  width: 288px;
+  height: 24px;
+}
+._8-am {
+  color: #eae8ff;
+  text-align: left;
+  font: 500 15px "Montserrat-Medium", sans-serif;
+  position: absolute;
+  left: 1199px;
+  top: 504px;
+  width: 90px;
+  height: 15px;
+}
+.dr-reyes {
+  color: #eae8ff;
+  text-align: left;
+  font: 500 14px "Montserrat-Medium", sans-serif;
+  position: absolute;
+  left: 1202px;
+  top: 541px;
+  width: 115px;
+  height: 16px;
+}
+.group-20 {
+  width: 427.44px;
+  height: 76.49px;
+  position: static;
+}
+.rectangle-18 {
+  background: rgba(234, 232, 255, 0.5);
+  border-radius: 10px;
+  width: 427.44px;
+  height: 76.49px;
+  position: absolute;
+  left: 1095.57px;
+  top: 585.88px;
+}
+.rectangle-21 {
+  background: #d9d9d9;
+  border-radius: 5px;
+  width: 76.24px;
+  height: 52.96px;
+  position: absolute;
+  left: 1110.56px;
+  top: 597.65px;
+}
+.jomellir-cameros2 {
+  color: #491d72;
+  text-align: left;
+  font: 600 19px "Montserrat-SemiBold", sans-serif;
+  position: absolute;
+  left: 1200px;
+  top: 612px;
+  width: 288px;
+  height: 24px;
+}
+._8-am2 {
+  color: #491d72;
+  text-align: left;
+  font: 500 15px "Montserrat-Medium", sans-serif;
+  position: absolute;
+  left: 1199px;
+  top: 597px;
+  width: 90px;
+  height: 15px;
+}
+.dr-reyes2 {
+  color: #491d72;
+  text-align: left;
+  font: 500 14px "Montserrat-Medium", sans-serif;
+  position: absolute;
+  left: 1199px;
+  top: 634px;
+  width: 115px;
+  height: 16px;
+}
+.group-21 {
+  width: 427.44px;
+  height: 76.49px;
+  position: static;
+}
+.rectangle-19 {
+  background: rgba(234, 232, 255, 0.5);
+  border-radius: 10px;
+  width: 427.44px;
+  height: 76.49px;
+  position: absolute;
+  left: 1095.57px;
+  top: 717.29px;
+}
+.rectangle-22 {
+  background: #d9d9d9;
+  border-radius: 5px;
+  width: 76.24px;
+  height: 52.96px;
+  position: absolute;
+  left: 1110.56px;
+  top: 729.06px;
+}
+.jomellir-cameros3 {
+  color: #491d72;
+  text-align: left;
+  font: 600 19px "Montserrat-SemiBold", sans-serif;
+  position: absolute;
+  left: 1200px;
+  top: 743px;
+  width: 288px;
+  height: 24px;
+}
+._8-am3 {
+  color: #491d72;
+  text-align: left;
+  font: 500 15px "Montserrat-Medium", sans-serif;
+  position: absolute;
+  left: 1199px;
+  top: 728px;
+  width: 90px;
+  height: 15px;
+}
+.dr-reyes3 {
+  color: #491d72;
+  text-align: left;
+  font: 500 14px "Montserrat-Medium", sans-serif;
+  position: absolute;
+  left: 1199px;
+  top: 765px;
+  width: 115px;
+  height: 16px;
+}
+.group-22 {
+  width: 427.44px;
+  height: 76.49px;
+  position: static;
+}
+.rectangle-23 {
+  background: rgba(234, 232, 255, 0.5);
+  border-radius: 10px;
+  width: 427.44px;
+  height: 76.49px;
+  position: absolute;
+  left: 1095.57px;
+  top: 810.46px;
+}
+.jomellir-cameros4 {
+  color: #491d72;
+  text-align: left;
+  font: 600 19px "Montserrat-SemiBold", sans-serif;
+  position: absolute;
+  left: 1200px;
+  top: 837px;
+  width: 288px;
+  height: 24px;
+}
+._8-am4 {
+  color: #491d72;
+  text-align: left;
+  font: 500 15px "Montserrat-Medium", sans-serif;
+  position: absolute;
+  left: 1199px;
+  top: 822px;
+  width: 90px;
+  height: 15px;
+}
+.dr-reyes4 {
+  color: #491d72;
+  text-align: left;
+  font: 500 14px "Montserrat-Medium", sans-serif;
+  position: absolute;
+  left: 1199px;
+  top: 859px;
+  width: 115px;
+  height: 16px;
+}
+.rectangle-24 {
+  background: #d9d9d9;
+  border-radius: 5px;
+  width: 76.24px;
+  height: 52.96px;
+  position: absolute;
+  left: 1110.56px;
+  top: 822.23px;
+}
+.group-23 {
+  width: 427.44px;
+  height: 76.49px;
+  position: static;
+}
+.rectangle-25 {
+  background: rgba(234, 232, 255, 0.5);
+  border-radius: 10px;
+  width: 427.44px;
+  height: 76.49px;
+  position: absolute;
+  left: 1095.57px;
+  top: 903.63px;
+}
+.jomellir-cameros5 {
+  color: #491d72;
+  text-align: left;
+  font: 600 19px "Montserrat-SemiBold", sans-serif;
+  position: absolute;
+  left: 1200px;
+  top: 930px;
+  width: 288px;
+  height: 24px;
+}
+._8-am5 {
+  color: #491d72;
+  text-align: left;
+  font: 500 15px "Montserrat-Medium", sans-serif;
+  position: absolute;
+  left: 1199px;
+  top: 915px;
+  width: 90px;
+  height: 15px;
+}
+.dr-reyes5 {
+  color: #491d72;
+  text-align: left;
+  font: 500 14px "Montserrat-Medium", sans-serif;
+  position: absolute;
+  left: 1199px;
+  top: 952px;
+  width: 115px;
+  height: 16px;
+}
+.rectangle-26 {
+  background: #d9d9d9;
+  border-radius: 5px;
+  width: 76.24px;
+  height: 52.96px;
+  position: absolute;
+  left: 1110.56px;
+  top: 915.39px;
+}
+.group-24 {
+  width: 76.24px;
+  height: 52.96px;
+  position: static;
+}
+.add-patient {
+  position: absolute;
+  inset: 0;
+}
+.group-27 {
+  width: 239.22px;
+  height: 31.11px;
+  position: static;
+}
+.make-an-appointment {
+  color: #ffffff;
+  text-align: center;
+  font: 600 15px "Montserrat-SemiBold", sans-serif;
+  position: absolute;
+  left: 1090.58px;
+  top: 213.03px;
+  width: 239.22px;
+  height: 31.11px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-78 {
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+  align-items: flex-start;
+  justify-content: center;
+  height: 74px;
+  position: absolute;
+  left: 1060px;
+  top: 201px;
+}
+.rectangle-27 {
+  background: #491d72;
+  border-radius: 10px;
+  flex-shrink: 0;
+  width: 302.43px;
+  height: 47.17px;
+  position: relative;
+}
+.group-26 {
+  flex-shrink: 0;
+  width: 185.92px;
+  height: 45.16px;
+  position: static;
+}
+.rectangle-28 {
+  background: #7ed956;
+  border-radius: 10px;
+  width: 185.92px;
+  height: 45.16px;
+  position: absolute;
+  left: 314.43px;
+  top: 0px;
+}
+.add-patient2 {
+  color: #491d72;
+  text-align: center;
+  font: 600 15px "Montserrat-SemiBold", sans-serif;
+  position: absolute;
+  left: 327.92px;
+  top: 8.03px;
+  width: 158.95px;
+  height: 29.1px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.appointment-statistics2 {
+  color: #491d72;
+  text-align: left;
+  font: 700 25px "Montserrat-Bold", sans-serif;
+  position: absolute;
+  left: 528px;
+  top: 334px;
+  width: 308px;
+  height: 36px;
+}
+.list-of-patients2 {
+  color: #491d72;
+  text-align: left;
+  font: 700 25px "Montserrat-Bold", sans-serif;
+  position: absolute;
+  left: 534px;
+  top: 712px;
+  width: 262px;
+  height: 36px;
+}
+.patients-today {
+  position: absolute;
+  inset: 0;
+}
+.group-30 {
+  width: 162.51px;
+  height: 97px;
+  position: static;
+}
+.rectangle-1 {
+  background: #ffffff;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: transparent;
+  border-width: 1px;
+  width: 162.51px;
+  height: 97px;
+  position: absolute;
+  left: 510px;
+  top: 202px;
+  box-shadow: 5px 5px 8px 0px rgba(0, 0, 0, 0.25);
+}
+.patients-today2 {
+  color: #491d72;
+  text-align: left;
+  font: 700 18px "Montserrat-Bold", sans-serif;
+  position: absolute;
+  left: 518px;
+  top: 216px;
+  width: 147px;
+  height: 27px;
+}
+._152 {
+  color: #491d72;
+  text-align: left;
+  font: 700 33px "Montserrat-Bold", sans-serif;
+  position: absolute;
+  left: 566.34px;
+  top: 243px;
+  width: 92.37px;
+  height: 44px;
+}
+.account {
+  width: 27.71px;
+  height: 30px;
+  position: absolute;
+  left: 527.55px;
+  top: 249px;
+}
+.missed {
+  position: absolute;
+  inset: 0;
+}
+.group-31 {
+  width: 164.34px;
+  height: 97px;
+  position: static;
+}
+.rectangle-6 {
+  background: #ffffff;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: transparent;
+  border-width: 1px;
+  width: 164.34px;
+  height: 97px;
+  position: absolute;
+  left: 689.19px;
+  top: 202px;
+  box-shadow: 5px 5px 8px 0px rgba(0, 0, 0, 0.25);
+}
+.missed2 {
+  color: #491d72;
+  text-align: left;
+  font: 700 18px "Montserrat-Bold", sans-serif;
+  position: absolute;
+  left: 700px;
+  top: 216px;
+  width: 78.51px;
+  height: 26px;
+}
+._5 {
+  color: #491d72;
+  text-align: left;
+  font: 700 33px "Montserrat-Bold", sans-serif;
+  position: absolute;
+  left: 743.85px;
+  top: 243px;
+  width: 92.37px;
+  height: 44px;
+}
+.box-important {
+  width: 27.71px;
+  height: 30px;
+  position: absolute;
+  left: 705.98px;
+  top: 249px;
+}
+.appointments2 {
+  position: absolute;
+  inset: 0;
+}
+.group-32 {
+  width: 162.51px;
+  height: 97px;
+  position: static;
+}
+.rectangle-7 {
+  background: #ffffff;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: transparent;
+  border-width: 1px;
+  width: 162.51px;
+  height: 97px;
+  position: absolute;
+  left: 870.24px;
+  top: 202px;
+  box-shadow: 5px 5px 8px 0px rgba(0, 0, 0, 0.25);
+}
+._45 {
+  color: #491d72;
+  text-align: left;
+  font: 700 33px "Montserrat-Bold", sans-serif;
+  position: absolute;
+  left: 924.73px;
+  top: 243px;
+  width: 92.37px;
+  height: 44px;
+}
+.appointments3 {
+  color: #491d72;
+  text-align: left;
+  font: 700 18px "Montserrat-Bold", sans-serif;
+  position: absolute;
+  left: 882.17px;
+  top: 215px;
+  width: 137.72px;
+  height: 27px;
+}
+.tear-off-calendar {
+  width: 27.71px;
+  height: 30px;
+  position: absolute;
+  left: 884.43px;
+  top: 248px;
+}
+.black {
+  background: rgba(0, 0, 0, 0.35);
+  width: 1920px;
+  height: 1080px;
+  position: absolute;
+  left: 0px;
+  top: 3px;
+}
+.add-appointment-popup2 {
+  background: rgba(234, 232, 255, 0.89);
+  border-radius: 20px;
+  border-style: solid;
+  border-color: #491d72;
+  border-width: 1px;
+  padding: 50px 100px 50px 100px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 1001px;
+  position: absolute;
+  left: 428px;
+  top: 175px;
+  overflow: hidden;
+  backdrop-filter: blur(5.5px);
+}
+.close-popup {
+  flex-shrink: 0;
+  width: 29px;
+  height: 28px;
+  position: absolute;
+  right: 33px;
+  top: 27px;
+  overflow: visible;
+}
+.add-appointment {
+  color: #491d72;
+  text-align: left;
+  font: 700 36px "Montserrat-Bold", sans-serif;
+  position: absolute;
+  left: 101px;
+  top: 57px;
+  width: 534px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.calendar2 {
+  flex-shrink: 0;
+  width: 790.4px;
+  height: 845px;
+  position: static;
+}
+.image-1 {
+  border-radius: 20px;
+  width: 790.13px;
+  height: 757.01px;
+  position: absolute;
+  left: 106px;
+  top: 206px;
+}
+.preferred-time {
+  color: #491d72;
+  text-align: left;
+  font: 700 24px "Montserrat-Bold", sans-serif;
+  position: absolute;
+  left: 192.14px;
+  top: 1001.31px;
+  width: 199.02px;
+  height: 47.38px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.clock {
+  width: 49.51px;
+  height: 48.38px;
+  position: absolute;
+  left: 132.73px;
+  top: 1001.31px;
+}
+.rectangle-97 {
+  background: #f8f8f9;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: rgba(100, 68, 170, 0.5);
+  border-width: 1px;
+  width: 164.36px;
+  height: 55.44px;
+  position: absolute;
+  left: 399.08px;
+  top: 995.26px;
+}
+._9-30-am {
+  color: #491d72;
+  text-align: left;
+  font: 700 24px "Montserrat-Bold", sans-serif;
+  position: absolute;
+  left: 417.89px;
+  top: 999.3px;
+  width: 105.94px;
+  height: 47.38px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.chevron-down {
+  width: 31.68px;
+  height: 24.19px;
+  position: absolute;
+  left: 520.87px;
+  top: 1011.39px;
+}
+.next {
+  width: 169.4px;
+  height: 55px;
+  position: static;
+}
+.rectangle-282 {
+  background: #7ed956;
+  border-radius: 10px;
+  width: 169.4px;
+  height: 55px;
+  position: absolute;
+  left: 727px;
+  top: 996px;
+}
+.next2 {
+  color: #491d72;
+  text-align: center;
+  font: 700 27px "Inter-Bold", sans-serif;
+  position: absolute;
+  left: 768.19px;
+  top: 1003.86px;
+  width: 89.45px;
+  height: 30.76px;
+}
+.choose-the-date-of-appointment {
+  color: #491d72;
+  text-align: left;
+  font: 700 20px "Montserrat-Bold", sans-serif;
+  position: absolute;
+  left: 106px;
+  top: 148px;
+  width: 383px;
+  height: 41px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
